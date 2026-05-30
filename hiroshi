@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiroshi Teitoku</title>
+</head>
+<body style="
+    background-image: url('hasumi_swimsuit.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+">
+    <h1 style="text-shadow: 2px 2px 5px white;">
+    Hiroshi Teitoku는 어디에 있습니까?</h1>
+    <img src="roland.jpg" alt="Hiroshi Teitoku" width="300">
+    <h2>Hiroshi Teitoku는 어디에 있습니까?</h2>
+    <h3>Hiroshi Teitoku는 어디에 있습니까?</h3>
+    <h4>Hiroshi Teitoku는 어디에 있습니까?</h4>
+    <h5>Hiroshi Teitoku는 어디에 있습니까?</h5>
+    <h6>Hiroshi Teitoku는 어디에 있습니까?</h6>
+    <p style="color: rgb(255, 255, 255);"><ruby>THE CLUB<rt>ザ·クラブ</rt></ruby>의 샴페인 타워 12개월권 정기 구독하기</p>
+    <form>
+    <label for="user-id">이름 :</label>
+    <input type="text" id="user-id" name="userid" placeholder="이름을 입력하세요">
+    <button type="submit">등록^^</button>
+</form>
+</body>
+</html>
